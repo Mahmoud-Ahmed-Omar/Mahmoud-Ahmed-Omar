@@ -1,16 +1,9 @@
 # Hi there 👋
 
-I'm Mahmoud Omar, A senior Software Engineer (Backend Laravel - NodeJs) at Smart Technology Solutions. I'm passionate about building scalable and efficient systems that solve real-world problems and A very flexible Software Engineer who can easily adapt to any stack,a laravel fan and a professional JS/PHP developer
+I am an experienced Software Engineer (4 years) with proven production experience on the latest web technologies including TypeScript, VueJS, NodeJS, PHP, GraphQL, CI/CD, and modern build tools. 
 
-## Skills
+Passionate about the Web, in the last years, I developed a growing interest in the full-stack JavaScript stack and the Cloud, particularly the AWS platform. 
 
-- PHP
-- Laravel
-- JavaScript
-- React
-- VueJs
-- Node.js
-- MongoDB
-- AWS
-- Docker
+Technologies: JavaScript, TypeScript, VueJS, NodeJS, Express, PHP Laravel, AWS (EC2, S3), Docker, Git, MySQL, NoSQL, RESTful APIs, GraphQL.
+
 
