@@ -14,13 +14,3 @@ I'm Mahmoud Omar, A senior Software Engineer (Backend Laravel - NodeJs) at Smart
 - AWS
 - Docker
 
-## Projects
-
-
-## Interests
-
-
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-profile/)
