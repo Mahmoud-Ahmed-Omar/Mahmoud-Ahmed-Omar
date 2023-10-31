@@ -4,6 +4,6 @@ I am an experienced Software Engineer (4 years) with proven production experienc
 
 Passionate about the Web, in the last years, I developed a growing interest in the full-stack JavaScript stack and the Cloud, particularly the AWS platform. 
 
-Technologies: JavaScript, TypeScript, VueJS, NodeJS, Express, PHP Laravel, AWS (EC2, S3), Docker, Git, MySQL, NoSQL, RESTful APIs, GraphQL.
+Technologies: JavaScript, TypeScript, VueJS, NodeJS, Express, PHP Laravel, AWS (EC2, S3 ..etc), Docker, Git, MySQL, NoSQL, RESTful APIs, GraphQL.
 
 
