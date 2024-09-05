@@ -1,9 +1,16 @@
-# Hi there 👋
 
-I am an experienced Software Engineer (4 years) with proven production experience on the latest web technologies including TypeScript, VueJS, NodeJS, PHP, GraphQL, CI/CD, and modern build tools. 
+👋 Hello! I'm Mahmoud
 
-Passionate about the Web, in the last years, I developed a growing interest in the full-stack JavaScript stack and the Cloud, particularly the AWS platform. 
+I'm a passionate and experienced Software Engineer with over 5 years of hands-on production experience in modern web technologies. I specialize in full-stack JavaScript development and have a strong affinity for cloud technologies, especially AWS.
 
-Technologies: JavaScript, TypeScript, VueJS, NodeJS, Express, PHP Laravel, AWS (EC2, S3 ..etc), Docker, Git, MySQL, NoSQL, RESTful APIs, GraphQL.
+My Expertise:
 
+Frontend: TypeScript, VueJS
+Backend: NodeJS (Express), PHP (Laravel)
+Cloud: AWS (EC2, S3, Lambda), Docker
+Databases: MySQL, NoSQL
+APIs: RESTful APIs, GraphQL
+DevOps: CI/CD pipelines, Git
+I love building robust, scalable applications and leveraging cloud platforms to solve complex problems. Lately, I've been diving deeper into the AWS ecosystem, exploring serverless architectures, and fine-tuning CI/CD workflows to ensure smooth deployments.
 
+🚀 I'm always looking for opportunities to collaborate on open-source projects or contribute to exciting new technologies. Feel free to check out my repositories and get in touch!
